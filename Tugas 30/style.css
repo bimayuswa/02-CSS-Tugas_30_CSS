@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  background-color: rgb(61, 75, 99);
+  margin-top: 10px;
+  color: white;
+  font-size: 16px;
+  padding: 2rem;
+}
+
+.box a {
+  margin-top: 20px;
+}
+
+.slide {
+  display: flex;
+  justify-content: space-between;
+}
